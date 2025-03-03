@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741030536 source:c:\users\emres\onedrive\desktop\kripto_portfoy_hesaplama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
